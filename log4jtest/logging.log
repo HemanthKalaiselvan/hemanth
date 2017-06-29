@@ -1,0 +1,15 @@
+2017-06-29 12:11:56 FATAL Client:23 -  is fatal error
+2017-06-29 12:13:43 FATAL What message??:22 -  is fatal error
+2017-06-29 12:16:43 FATAL What message??:22 -  is fatal error
+2017-06-29 12:16:43 INFO  What message??:24 -  is info error
+2017-06-29 12:16:43 WARN  What message??:25 -  is fatal error
+2017-06-29 12:16:43 ERROR What message??:26 -  is fatal error
+2017-06-29 12:20:27 FATAL What message??:22 -  is fatal error
+2017-06-29 12:20:27 INFO  What message??:24 -  is info error
+2017-06-29 12:20:27 WARN  What message??:25 -  is fatal error
+2017-06-29 12:20:27 ERROR What message??:26 -  is fatal error
+2017-06-29 12:24:20 FATAL What message??:22 -  is fatal error
+2017-06-29 12:24:20 DEBUG What message??:23 -  is debug error
+2017-06-29 12:24:20 INFO  What message??:24 -  is info error
+2017-06-29 12:24:20 WARN  What message??:25 -  is fatal error
+2017-06-29 12:24:20 ERROR What message??:26 -  is fatal error
